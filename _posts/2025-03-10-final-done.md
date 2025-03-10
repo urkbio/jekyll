@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: 终于部署成功了
 ---
 
 忙活了半天，终于把jekyll给部署成功了，原理一开始是我把`URL`和`baseurl`都设定为了域名，导致GitHub Actions一直错误。看日志是资源无法正确加载，路径有问题，但我不知道如何解决。还好有ChatGPT告诉我`URL`和`baseurl`该如何设定。
