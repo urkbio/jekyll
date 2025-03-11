@@ -46,8 +46,8 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google: nAFDaivP6bv8xEkYy5WLLvb5QAfyKt1lbPn9a6SVgJI # fill in your Google verification code
+  bing: EB7AE5FEB7EE83DF05FF00CFC30F4439 # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: joomaen # fill in your GoatCounter ID
   umami:
     id: 53ba2df9-0717-4ef0-9152-d36e1df4731e # fill in your Umami ID
     domain: https://umami.235421.xyz # fill in your Umami domain
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
