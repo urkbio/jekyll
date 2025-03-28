@@ -1,7 +1,7 @@
 ---
 title: 开通了overcast premium
 date: 2025-03-12 12:14:32 +0800
-categories: [Default]
+categories: [个人]
 tags: [Podcast, overcast]
 ---
 
