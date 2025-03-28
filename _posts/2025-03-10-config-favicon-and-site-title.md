@@ -2,7 +2,7 @@
 title: 配置favicon和site title
 date: 2025-03-10 22:34:52 +0800
 categories: [Default]
-tags: [blog, configuration]
+tags: [博客, 配置]
 ---
 
 更换了favicon和site title，之前的默认图标太丑了。

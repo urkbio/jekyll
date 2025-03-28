@@ -2,7 +2,7 @@
 title: 开通了overcast premium
 date: 2025-03-12 12:14:32 +0800
 categories: [Default]
-tags: [podcast, overcast]
+tags: [Podcast, overcast]
 ---
 
 在用小宇宙听播客很久了，不过它开始有开屏广告了。而且它现在也不是一个泛用型播客客户端了，而是一个平台。尽管它的数据统计、贴纸、评论、还有付费合集或单集我都很喜欢，可我还是想用一个真正的泛用型播客客户端来听免费的播客。

@@ -2,7 +2,7 @@
 title: 终于部署成功了
 date: 2025-03-10 22:38:45 +0800
 categories: [Default]
-tags: [deploy]
+tags: [部署]
 ---
 
 忙活了半天，终于把jekyll给部署成功了，原来一开始是我把`URL`和`baseurl`都设定为了域名，导致GitHub Actions一直错误。看日志是资源无法正确加载，路径有问题，但我不知道如何解决。还好有ChatGPT告诉我`URL`和`baseurl`该如何设定。
