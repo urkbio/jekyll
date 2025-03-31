@@ -19,7 +19,7 @@ title: SOL.VG # the main title
 tagline: Yet another SOL.VG site # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  One of many sites for a blogging enthusiast.
+  Joomaen 收集的歌词备份。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Joomaen Chiu
-  email: mail@zyg.im # change to your email address
+  email: admin@joomaen.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.sol.vg # change to your Twitter homepage

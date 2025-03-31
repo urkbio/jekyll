@@ -3,7 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
-> 我叫**Joomaen**。
+> 本站展示我收集的一些歌词。
 {: .prompt-tip }
 
-这是我的另一个博客站点，我有好几个静态博客，还有一个[Typecho](https://blog.zyg.im)，以便没有电脑时候发布内容。我热衷于尝试各种博客工具，不过许多比较复杂，我很开心将jekyll成功部署了。
+| 命名规则 | |
+| --- | --- |
+| 招魂 | 天灵灵地灵灵 | evocationhk-02 |
+| 招魂 | 奠 | evocationhk-03 |
+| 暗狱戮尸 | TRIPLE INSANITY | The-Dark-Prison-Massacre-06 |
