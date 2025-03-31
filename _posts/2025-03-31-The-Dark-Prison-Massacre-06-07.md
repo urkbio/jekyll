@@ -1,8 +1,8 @@
 ---
 title: Ghost Island Dalits (Sihan Version) 鬼岛贱民
 date: 2025-03-31 13:15:14 +0800
-categories: [暗狱戮尸,雪沉]
-tags: [TRIPLE INSANITY]
+categories: [暗狱戮尸,TRIPLE INSANITY]
+tags: [残死]
 ---
 
 ![folder.avif](https://b2.235421.xyz/pic/2025/03/a920dc3b4f0f583a98bd978dbe5737fb.avif)
