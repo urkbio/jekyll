@@ -7,6 +7,8 @@ tags: [残死]
 
 ![folder.avif](https://b2.235421.xyz/pic/2025/03/a920dc3b4f0f583a98bd978dbe5737fb.avif)
 
+网易云收听[No School Violence](https://music.163.com/song?id=1948200242&userid=1623945853)
+
 作词: 暗狱戮尸
 作曲: 暗狱戮尸
 编曲: 暗狱戮尸

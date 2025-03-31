@@ -7,6 +7,8 @@ tags: [残死]
 
 ![folder.avif](https://b2.235421.xyz/pic/2025/03/a920dc3b4f0f583a98bd978dbe5737fb.avif)
 
+网易云收听[Ghost Island Dalits (Sihan Version)](https://music.163.com/song?id=1948200241&userid=1623945853)
+
 这是暗狱戮尸与血沉乐队合作的歌曲。
 
 作词: 暗狱戮尸
