@@ -11,4 +11,5 @@ order: 4
 | --- | --- |
 | 招魂 | 天灵灵地灵灵 | evocationhk-02 |
 | 招魂 | 奠 | evocationhk-03 |
+| 暗狱戮尸 | Overtreated Cause Opposited | The-Dark-Prison-Massacre-04 |
 | 暗狱戮尸 | TRIPLE INSANITY | The-Dark-Prison-Massacre-06 |
