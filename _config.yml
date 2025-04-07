@@ -61,7 +61,7 @@ analytics:
   google:
     id: G-PXHHS16KNC # fill in your Google Analytics ID
   goatcounter:
-    id: joomaen # fill in your GoatCounter ID
+    id: solvg # fill in your GoatCounter ID
   umami:
     id: 53ba2df9-0717-4ef0-9152-d36e1df4731e # fill in your Umami ID
     domain: https://umami.235421.xyz # fill in your Umami domain
