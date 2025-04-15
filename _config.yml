@@ -63,8 +63,8 @@ analytics:
   goatcounter:
     id: solvg # fill in your GoatCounter ID
   umami:
-    id: 53ba2df9-0717-4ef0-9152-d36e1df4731e # fill in your Umami ID
-    domain: https://umami.235421.xyz # fill in your Umami domain
+    id: # fill in your Umami ID
+    domain: # fill in your Umami domain
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.235421.xyz/pic/header01.jpg
+avatar: https://media.235421.xyz/pic/header01.avif
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
